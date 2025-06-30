@@ -1,9 +1,11 @@
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+
 # ![PR][PR_Icon] Guide to permanent residency (PR) In Japan ![PR][PR_Icon]
 
-The thing your are looking for is probably [the Guide to permanent residency In
+The thing you are looking for is [the Guide to permanent residency In
 Japan](permanent-residency-in-japan.md).
 
-This `README` contains a few extra information.
+This `README` contains a little extra information.
 
 [PR_Icon]: imgs/pr.png
 
