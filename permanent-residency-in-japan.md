@@ -122,9 +122,9 @@ even if you are just in the process of PR application.
 A drawback is that it may affect your tax status, e.g. you may risk becoming
 subjected to the exit tax[^exit-tax]. Regardless of PR, anyone living in Japan
 for a period of more than 5 years in the last 10 years becomes a permanent
-residence for tax purposes (which is, confusingly, completely separate from
+resident for tax purposes (which is, confusingly, completely separate from
 permanent resident for immigration purposes — it's entirely possible to be a
-permanent tax residence but not hold permanent resident resident card, and vice
+permanent tax resident but not hold a permanent resident resident card, and vice
 versa). In any case, if you are concerned about this you should consult a
 financial advisor.
 
