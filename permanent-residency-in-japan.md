@@ -181,9 +181,10 @@ should) get in advance:
 * Start to collect the documents to prove how many points you own now and in the
   past (one or three years ago depending if you have 80+ or 70+ points). The
   work certificates of your past employers can be especially challenging to get,
-  so you'd better do it early.  * Make sure that you have a copy of your past
-  payslips or work contract to prove what your income was one or three years
-  ago.
+  so you'd better do it early.
+
+* Make sure that you have a copy of your past payslips or work contracts to
+  prove what your income was one or three years ago.
 
 ## Translations
 
