@@ -41,6 +41,7 @@ Lawyers previously used by fellow colleagues or acquaintances:
 * [https://samurai-law.com/en/](https://samurai-law.com/en/)
 * [https://attorney-office.com/lp/](https://attorney-office.com/lp/)
 * [https://visa-to.com/](https://visa-to.com/)
+* [https://english.visajapan.jp/](https://english.visajapan.jp/)
 * *You are welcome to suggest other lawyers you may have gotten services from.*
 
 [^lawyer-cost]: **Source:** Statistics from the Japan Federation of Certified
