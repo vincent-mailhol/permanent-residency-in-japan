@@ -161,9 +161,13 @@ Most of the documents that you need to submit must be less than three months old
 at the time of application. However, there are a few things that you can (and
 should) get in advance:
 
-* Make sure that your contributions to the [national pension
-  system](#年金記録-national-pension-records) are up to date. Delays in your
-  pension payments are a common cause of rejection.
+* Make sure to keep a perfect record over the last two years of the
+  contributions to the [national pension system](#年金記録-national-pension-records)
+  for you and your dependents. Delays in your pension payments are a common
+  cause of rejection.
+
+  If you plan to apply through the spouse visa also confirm your spouse's
+  pension payment history.
 
 * My number card (the one with the IC chip). Not directly required but this will
   help you to get some of the required documents more easily: you can get some
