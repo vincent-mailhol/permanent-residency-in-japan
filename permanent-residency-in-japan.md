@@ -127,8 +127,8 @@ permanent tax residence but not hold permanent resident resident card, and vice
 versa). In any case, if you are concerned about this you should consult a
 financial advisor.
 
-[^exit-tax]: c.f. [Japan: Application of exit tax to foreigners delayed for five
-  years](https://www.pwc.com/gx/en/hr-management-services/newsletters/global-watch/assets/pwc-japan-delays-application-exit-tax-foreigners-five-years.pdf)
+[^exit-tax]: c.f. [Exit tax, HSP, PR, and spending five years in
+  Japan](https://www.reddit.com/r/JapanFinance/comments/xa9fez/exit_tax_hsp_pr_and_spending_five_years_in_japan/)
 
 ## Reporting obligations
 
