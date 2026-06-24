@@ -30,7 +30,7 @@ described here will allow you to obtain permanent residency.
 By using this guide, you agree that none of the authors shall be liable for any
 damage or loss you may encounter.
 
-## Getting a lawyer
+## Getting a lawyer[^lawyer]
 
 The easiest way to apply is to get support from a specialized agent. But of
 course, this will come at a fee: 130,000 JPY on average[^lawyer-cost] (baseline
@@ -44,6 +44,10 @@ Lawyers previously used by fellow colleagues or acquaintances:
 * [https://visa-to.com/](https://visa-to.com/)
 * [https://english.visajapan.jp/](https://english.visajapan.jp/)
 * *You are welcome to suggest other lawyers you may have gotten services from.*
+
+[^lawyer]: Most immigration "lawyers" in English vernacular are "administrative
+scriveners" (行政書士), who are licensed with performance of administrative
+procedures and related advice.
 
 [^lawyer-cost]: **Source:** Statistics from the Japan Federation of Certified
   Administrative Procedures Legal Specialists Associations, page 28 entry 364
