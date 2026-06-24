@@ -24,7 +24,7 @@ If you do not have a GitHub account, you can also send the feedback by e-mail to
 `mailhol.vincent(at-sign)wanadoo.fr`.
 
 Whether this document stays up to date or not depends on you. I personally
-already got my permanent residency so I have no more incentives to proactively
+already got my permanent residency, so I have no more incentives to proactively
 follow the latest updates on the topic and document them. That said, I will
 continue to incorporate any feedback I receive. If you reach out each time you
 encounter something which became obsolete, the document will stay alive. So, if
