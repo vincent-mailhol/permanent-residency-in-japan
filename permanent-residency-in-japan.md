@@ -745,7 +745,7 @@ written on the front of your card and matches the expiry date of your previous
 residence card. By failing to do so, you would have to reapply for a new my
 number card (cost: 500 JPY).
 
-## Oversea travels and re-entry permits as a PR
+## Oversea travel and re-entry permits as a PR
 
 If you depart Japan, you still need to get a re-entry permit before leaving the
 country if you intend to come back, otherwise your PR will lapse at that
