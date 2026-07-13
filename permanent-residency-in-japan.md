@@ -233,6 +233,15 @@ should) get in advance:
   work certificates of your past employers can be especially challenging to get,
   so you'd better do it early.
 
+> [!TIP]
+> You can reuse previously submitted static materials by filing this form:
+> [Application for Transfer of Materials/資料転用願出書](https://www.moj.go.jp/isa/content/930003313.doc).
+>
+> Additionally, if you are currently on an HSFP status, it may be possible to reuse
+> the calculation results of the previous application, so keep the
+> "Notification of the calculation results for highly skilled professional points
+> (Form No. 27-2)" if it has been issued to you.
+
 * Make sure that you have a copy of your past payslips or work contracts to
   prove what your income was one or three years ago.
 
