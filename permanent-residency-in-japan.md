@@ -227,7 +227,7 @@ The details to apply through the point-based system are listed here:
 **Please refer to this procedure first. The sections below provide extra help on
 the potential pain points but will not detail all steps.** In particular, we
 will not paraphrase the contents of the checklist, and we will not cover trivial
-things such as how to use a photomaton to take your ID photo.
+things such as how to use a photobooth to take your ID photo.
 
 **Caution:** Immigration is now providing a [multi language page with automatic
 translation](https://www.moj.go.jp/isa/other_languages.html?hl=en). Make sure to
