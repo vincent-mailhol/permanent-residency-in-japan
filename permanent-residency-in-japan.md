@@ -1,6 +1,6 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
 
-# ![PR][PR_Icon] Guide to permanent residency (PR) In Japan ![PR][PR_Icon]
+# ![PR][PR_Icon] Guide to permanent residency (PR / 永住権) In Japan ![PR][PR_Icon]
 
 [PR_Icon]: imgs/pr.png
 
