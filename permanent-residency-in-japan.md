@@ -268,7 +268,7 @@ to check if this service is available for your location.
 Alternatively, you can of course directly go to the ward office (区役所). When
 going to the ward office, check first if there is a local branch closer to your
 place. Local branches are usually named 市役所 or 出張所. The local branches,
-even if smaller, have way less visitors and are, by experience, overall quicker.
+even if smaller, have fewer visitors, and are, by experience, overall quicker.
 
 ### By postal mail to the ward office
 
