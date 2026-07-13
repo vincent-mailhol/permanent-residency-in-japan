@@ -22,12 +22,13 @@ citizen…) may still find the information below useful.
 
 This document compiles the experience of several individuals with the intent to
 help others to more easily gather the required documents to apply to permanent
-residency in Japan. This is not legal advice and I provide no guarantees that
-following the steps described here will allow you to obtain permanent
-residency.
+residency in Japan.
+
+This is not legal advice and I provide no guarantees that following the steps
+described here will allow you to obtain permanent residency.
 
 By using this guide, you agree that none of the authors shall be liable for any
-damage or loss you may encountered.
+damage or loss you may encounter.
 
 ## Getting a lawyer
 
