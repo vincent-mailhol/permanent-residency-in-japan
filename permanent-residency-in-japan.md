@@ -30,6 +30,15 @@ described here will allow you to obtain permanent residency.
 By using this guide, you agree that none of the authors shall be liable for any
 damage or loss you may encounter.
 
+## Recent Updates
+
+| When       | What                                                                      | Status               |
+|------------|---------------------------------------------------------------------------|----------------------|
+| Future     | Language proficiency requirements & lifestyle learning program completion | In Policy Discussion |
+| 2027-04-01 | Deliberate non-payment of social obligations → revocation of PR           | Confirmed            |
+| 2026-10-01 | PR cost ↑ to ¥200,000                                                     | Confirmed            |
+| 2026-04-01 | <5 Year Status of Residence not eligible to Apply (unless points route)   | Confirmed            |
+
 ## Getting a lawyer[^lawyer]
 
 The easiest way to apply is to get support from a specialized agent. But of
