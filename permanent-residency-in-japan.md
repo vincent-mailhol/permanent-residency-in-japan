@@ -62,6 +62,17 @@ general advice.
 
 Link: [https://www.moj.go.jp/isa/support/fresc/fresc_2.1.html](https://www.moj.go.jp/isa/support/fresc/fresc_2.1.html)
 
+## Longest period of stay
+
+Starting on April 1st, 2026, the Ministry of Justice has announced that they will
+interpret the requirement in the immigration control act to "hold the longest
+period of stay" upwards from the current practice of "at least 3-years" to "5-years".
+
+This does not apply to HSFP holders and qualifiers (because HSFP is automatically
+issued at the longest period of stay, 5-years).
+
+Link: [https://www.moj.go.jp/isa/applications/resources/nyukan_nyukan50.html]
+
 ## PR through the point-based system
 
 There are some exemptions for the general guideline "living in Japan 10 years or
@@ -83,7 +94,7 @@ to be able to either prove that:
   requirement when applying for PR.
 
 **N.B.**: You do **not** have to first apply to highly skilled professional
-status to get PR.
+status to get PR, and do **not** need to hold a 5-year visa.
 
 Be sure to check this list:
 [https://www.moj.go.jp/isa/content/001335478.pdf](https://www.moj.go.jp/isa/content/001335478.pdf)
@@ -127,28 +138,39 @@ Link: [https://www.moj.go.jp/isa/applications/resources/nyukan_nyukan50.html]
 
 ## Pros and Cons of PR
 
-The PR status will allow you to stay in Japan even if you become
+Permanent Resident status will allow you to stay in Japan even if you become
 unemployed. This status also allows you to work in domains other than the
 designated activities of your current status. This includes, for example, the
-possibility of starting your own business.
+possibility of starting your own business, working for overseas clients as a
+freelancer, or working in a job role for which there is no appropriate visa.
 
-Besides the right to freely live in Japan with or without work, a most
-significant benefit is accommodation loan. With PR, you can expect to get the
-same interest rate as Japanese Citizens and also a zero down payment. One thing
-worth mentioning here is that some banks will still grant you those benefits
-even if you are just in the process of PR application.
+Besides the right to freely live in Japan with or without work, a
+significant benefit is preferred treatment when applying for an accommodation /
+home loan mortgage. With PR, you can expect to get the same interest rate as Japanese
+nationals, and expanded access to zero down payment/110% financing. Some banks may
+grant you those benefits even if you are just in the process of PR application.
 
 A drawback is that it may affect your tax status, e.g. you may risk becoming
-subjected to the exit tax[^exit-tax]. Regardless of PR, anyone living in Japan
+subjected to exit tax[^exit-tax] and inheritance tax on overseas assets[^inheritance-tax].
+
+Regardless of PR, anyone living in Japan
 for a period of more than 5 years in the last 10 years becomes a permanent
 resident for tax purposes (which is, confusingly, completely separate from
 permanent resident for immigration purposes — it's entirely possible to be a
-permanent tax resident but not hold a permanent resident resident card, and vice
-versa). In any case, if you are concerned about this you should consult a
-financial advisor.
+permanent tax resident but not hold a permanent resident card, and vice
+versa). The main tax implication of non-permanent tax residency status is that
+some overseas passive income may not be  considered taxable in Japan for those first
+five years, for example dividends, capital gains, interest, etc[^non-pr-tax].
 
-[^exit-tax]: c.f. [Exit tax, HSP, PR, and spending five years in
+In any case, if you have concerns, you should consult with a financial advisor,
+or consider discussing with [r/JapanFinance](https://www.reddit.com/r/JapanFinance/).
+
+[^exit-tax]: see [Exit tax, HSP, PR, and spending five years in
   Japan](https://www.reddit.com/r/JapanFinance/comments/xa9fez/exit_tax_hsp_pr_and_spending_five_years_in_japan/)
+
+[^inheritance-tax]: see [Japan inheritance & gift tax and exit tax implications based on visa status in Japan](https://vialtopartners.com/regional-alerts/japan-tax-immigration-japan-inheritance-gift-tax-and-exit-tax-implications-based-on-visa-status-in-japan)
+
+[^non-pr-tax]: see [Taxpayers and the scope of taxable income](https://www.nta.go.jp/english/taxes/individual/pdf/incometax_2020/04.pdf) and [Income that is neither Japan-source nor foreign-source](https://wiki.japanfinance.org/tax/income/#income-that-is-neither-japan-source-nor-foreign-source)
 
 ## Reporting obligations
 
@@ -223,11 +245,6 @@ must be in Japanese.
 Strictly speaking, there are just three legal requirements as listed here:
 
 [https://www.moj.go.jp/isa/publications/materials/nyukan_nyukan50.html](https://www.moj.go.jp/isa/publications/materials/nyukan_nyukan50.html)
-
-Especially, paid attention to the fact that: "*The applicant must be residing in
-Japan with the longest period of stay possible for their current status of
-residence*", meaning that people with a period of stay of one year can not
-apply.
 
 Practically speaking, those legal requirements unfold into a longer official
 checklist:
